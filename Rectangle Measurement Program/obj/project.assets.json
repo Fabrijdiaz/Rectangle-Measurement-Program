@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fabricio Diaz\\source\\repos\\Rectangle Measurement Program\\Rectangle Measurement Program.csproj",
+      "projectUniqueName": "C:\\Users\\Fabricio Diaz\\Documents\\GitHub\\Rectangle-Measurement-Program\\Rectangle Measurement Program\\Rectangle Measurement Program.csproj",
       "projectName": "Rectangle Measurement Program",
-      "projectPath": "C:\\Users\\Fabricio Diaz\\source\\repos\\Rectangle Measurement Program\\Rectangle Measurement Program.csproj",
+      "projectPath": "C:\\Users\\Fabricio Diaz\\Documents\\GitHub\\Rectangle-Measurement-Program\\Rectangle Measurement Program\\Rectangle Measurement Program.csproj",
       "packagesPath": "C:\\Users\\Fabricio Diaz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fabricio Diaz\\source\\repos\\Rectangle Measurement Program\\obj\\",
+      "outputPath": "C:\\Users\\Fabricio Diaz\\Documents\\GitHub\\Rectangle-Measurement-Program\\Rectangle Measurement Program\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
